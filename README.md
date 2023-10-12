@@ -2,11 +2,11 @@
 
 Welcome to my awesome calculator project! This C++ program can take a mathematical expression as a string and calculate the result. It supports the basic arithmetic operations `(`, `+`, `-`, `*`, `/`, `)`
 
-The project is being compiled using `Makefiles` with means that you need a Unix system to run it (MacOS, Linux, WSL).
+The project is being compiled using `Makefile` with means that you need a Unix system to run it (MacOS, Linux, WSL).
 
 And supports the order of operations.
 
-### 🧑💻 Beginner's Journey
+### 💻 Beginner's Journey
 
 This project represents the knowledge I've acquired so far in my journey of learning C++.
 
@@ -28,7 +28,7 @@ To use this calculator in your project, follow these simple steps:
    git clone https://github.com/YanivZalach/Math_Calculator.git ~/Documents/calculate
    ```
 
-2. Compile the C++ source code using `Makefiles`:
+2. Compile the C++ source code using `Makefile`:
 
    ```bash
    make all
