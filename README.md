@@ -6,17 +6,9 @@ The project is being compiled using `Makefiles` with means that you need a Unix 
 
 And supports the order of operations.
 
-## 🧑💻 Beginner's Journey
+### 🧑💻 Beginner's Journey
 
 This project represents the knowledge I've acquired so far in my journey of learning C++.
-
-## 📚 Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Pay Attention](#pay-attention)
-- [License](#license)
 
 ## ✨ Features
 
