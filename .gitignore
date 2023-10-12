@@ -1,0 +1,6 @@
+# Ignore executable files
+colculator 
+
+# Ignore object files
+*.o
+
