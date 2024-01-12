@@ -4,3 +4,5 @@ colculator
 # Ignore object files
 *.o
 
+# Ignore Backup
+calculator_backup/
